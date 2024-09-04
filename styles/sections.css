@@ -6,7 +6,7 @@
     
     .card {
         border-radius: 4px;
-        overflow: hidden;
+        /* overflow: hidden; */
         position: relative;
 
         &::before{
@@ -21,6 +21,10 @@
             position: absolute;
             bottom: 0;
             padding: 24px;
+
+            &:has(.text-lg){
+                padding: 12px;
+            }
 
             h2{
                 margin-top: 8px;
