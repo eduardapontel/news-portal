@@ -13,11 +13,13 @@ Welcome to **News Portal**! This project is a news portal showcasing a variety o
 ## Project Structure 📂
 
 - `index.html`: The main HTML file that structures the page content.
-- `global.css`: Defines style variables and global rules for the page.
-- `header.css`: Specific styles for the header.
-- `index.css`: Imports and combines project styles.
-- `sections.css`: Specific styles for the main sections of the page.
-- `utility.css`: Provides utility classes for quick layout and styling.
+- `styles/`: Contains all CSS files.
+  - `global.css`: Defines style variables and global rules for the page.
+  - `header.css`: Specific styles for the header.
+  - `index.css`: Imports and combines project styles.
+  - `sections.css`: Specific styles for the main sections of the page.
+  - `utility.css`: Provides utility classes for quick layout and styling.
+- `assets/`: Contains images, icons, and other resources used in the project.
 
 <br>
 
