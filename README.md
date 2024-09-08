@@ -21,27 +21,35 @@ Welcome to **News Portal**! This project is a news portal showcasing a variety o
 
 <br>
 
-## Styles and Layout 🎨📝
+## Layout ✏️
 
-### `global.css`
+The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1362166020452569562).
 
-Defines style variables such as colors, fonts, and text sizes. Applies basic styles to all elements, ensuring a consistent design foundation.
+The layout showcases the structure, color scheme, and visual design of the recipe page, providing a clear reference for the development of the project.
 
-### `header.css`
+<br>
 
-Styles for the header, including the primary and secondary navigation bars. Uses Flexbox to align items and adjust the layout.
+## Styles 🎨
 
-### `index.css`
+`global.css`
 
-Imports global, utility, header, and section-specific styles, applying them to the overall page layout.
+- Defines style variables such as colors, fonts, and text sizes. Applies basic styles to all elements, ensuring a consistent design foundation.
 
-### `sections.css`
+`header.css`
 
-Styles for the main sections of the page, such as the featured news section, weekly news, and AI highlights. Includes rules for displaying images and text.
+- Styles for the header, including the primary and secondary navigation bars. Uses Flexbox to align items and adjust the layout.
 
-### `utility.css`
+`index.css`
 
-Utility classes for layout, such as grids, spacing, and text sizes. Facilitates the quick application of consistent styles.
+- Imports global, utility, header, and section-specific styles, applying them to the overall page layout.
+
+`sections.css`
+
+- Styles for the main sections of the page, such as the featured news section, weekly news, and AI highlights. Includes rules for displaying images and text.
+
+`utility.css`
+
+- Utility classes for layout, such as grids, spacing, and text sizes. Facilitates the quick application of consistent styles.
 
 <br>
 
