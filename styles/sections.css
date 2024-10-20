@@ -145,7 +145,7 @@ aside {
     }
 
     #ai > div > article {
-        grid-template-columns: 11rem 1fr;
+        grid-template-columns: 80px 1fr;
 
         & > div:nth-child(1) {
             grid-column: 2;
