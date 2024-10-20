@@ -20,10 +20,15 @@
     --text-sm: 400 14px/160% var(--font-family);
 }
 
+html{
+    overflow-x: hidden;
+}
+
 body {
     font: var(--text);
     color: var(--text-color-primary);
     background-color: var(--bg-color);
+    overflow-x: hidden;
 }
 
 a {

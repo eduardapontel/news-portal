@@ -55,3 +55,9 @@
     -webkit-line-clamp: 4;
     line-clamp: 4;
 }
+
+@media (width <= 60em) {
+    .desktop-only {
+        display: none;
+    }
+}
