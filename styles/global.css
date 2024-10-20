@@ -12,15 +12,15 @@
     --text-color-primary: #f1f5f9;
     --text-color-secondary: #cbd5e1;
     --font-family: 'Archivo', sans-serif;
-    --h1: 800 24px/135% var(--font-family);
-    --h2: 800 16px/140% var(--font-family);
-    --h3: 800 14px/140% var(--font-family);
-    --text-span: 600 14px/145% var(--font-family);
-    --text: 400 16px/140% var(--font-family);
-    --text-sm: 400 14px/160% var(--font-family);
+    --h1: 800 1.5rem/135% var(--font-family);
+    --h2: 800 1rem/140% var(--font-family);
+    --h3: 800 0.875rem/140% var(--font-family);
+    --text-span: 600 0.875rem/145% var(--font-family);
+    --text: 400 1rem/140% var(--font-family);
+    --text-sm: 400 0.875rem/160% var(--font-family);
 }
 
-html{
+html {
     overflow-x: hidden;
 }
 
@@ -51,15 +51,15 @@ img {
 }
 
 .container {
-    max-width: 1280px;
-    padding-inline: 32px;
+    max-width: 80rem;
+    padding-inline: 2rem;
     margin-inline: auto;
 }
 
 main {
-    margin-block: 40px;
-    row-gap: 80px;
-    column-gap: 32px;
+    margin-block: 2.5rem;
+    row-gap: 5rem;
+    column-gap: 2rem;
     grid-template-areas:
         'featured featured'
         'weekly weekly'
@@ -69,11 +69,11 @@ main {
 
 .content-tag {
     background-color: var(--brand-color-dark);
-    padding: 4px 8px;
-    border-radius: 4px;
-    font: 500 10px/1.2 var(--font-family);
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font: 500 0.625rem/1.2 var(--font-family);
     text-transform: uppercase;
     letter-spacing: 0.04em;
     color: var(--text-color-primary);
-    box-shadow: 0px 4px 16px 0px rgba(2, 6, 23, 0.25);
+    box-shadow: 0px 0.25rem 1rem 0px rgba(2, 6, 23, 0.25);
 }
