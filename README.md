@@ -25,7 +25,7 @@ Welcome to **News Portal**! This project is a news portal showcasing a variety o
 
 ## Layout ✏️
 
-The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1362166020452569562).
+The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1392188698846698895/portal-de-noticias).
 
 The layout showcases the structure, color scheme, and visual design of the recipe page, providing a clear reference for the development of the project.
 
