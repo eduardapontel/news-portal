@@ -9,7 +9,7 @@ Welcome to **News Portal**! This project is a news portal showcasing a variety o
 **News Portal** features sections for featured news, weekly news, Artificial Intelligence highlights, and more. The layout is based on a grid structure to efficiently organize the content.
 
 <br>
-
+ 
 ## Project Structure 📂
 
 - `index.html`: The main HTML file that structures the page content.
