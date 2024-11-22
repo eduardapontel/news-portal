@@ -70,7 +70,7 @@ The layout showcases the structure, color scheme, and visual design of the recip
 
 ## Contributing 🤝
 
-Feel free to contribute to the project! For suggestions or fixes, please submit a pull request or open an issue on GitHub.
+Feel free to contribute to the project! For suggestions or fixes, please submit a pull request or open an issue on GitHub. 
 
 <br>
 
