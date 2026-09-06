@@ -1,6 +1,6 @@
 # News Portal 🌐📰
 
-Welcome to **News Portal**! This project is a news portal showcasing a variety of technology topics. The design is crafted to provide an engaging and organized visual experience.
+News Portal is a static webpage showcasing a variety of technology news and topics.
 
 <br>
 
@@ -76,4 +76,4 @@ Feel free to contribute to the project! For suggestions or fixes, please submit 
 
 ## Notes 📌
 
-This page is static and does not include functionality for buttons or backend integration.
+This page is static and does not include functionality for links, buttons or backend integration.
