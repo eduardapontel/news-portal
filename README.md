@@ -1,6 +1,6 @@
 # News Portal 🌐📰
 
-News Portal is a static webpage showcasing a variety of technology news and topics.
+News Portal is a responsive static webpage showcasing a variety of technology news and topics.
 
 <br>
 
