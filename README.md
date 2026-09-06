@@ -6,7 +6,7 @@ News Portal is a static webpage showcasing a variety of technology news and topi
 
 ## Overview ✨
 
-**News Portal** features sections for featured news, weekly news, Artificial Intelligence highlights, and more. The layout is based on a grid structure to efficiently organize the content.
+**News Portal** includes sections for featured news, most read of the week, artificial intelligence highlights, and more. The layout is based on a grid structure to efficiently organize the content.
 
 <br>
  
@@ -43,7 +43,7 @@ The layout showcases the structure, color scheme, and visual design of the webpa
 
 `index.css`
 
-- Imports global, utility, header, and section-specific styles, applying them to the overall page layout.
+- Imports global, utility, header, and sections styles, applying them to the overall page layout.
 
 `sections.css`
 
