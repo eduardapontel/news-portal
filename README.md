@@ -8,7 +8,7 @@ News Portal is a responsive static webpage showcasing a variety of technology ne
 
 **News Portal** includes sections for featured news, most read of the week, artificial intelligence highlights, and more. The layout is based on a grid structure to efficiently organize the content.
 
-<br>
+<br> 
  
 ## Project Structure 📂
 
