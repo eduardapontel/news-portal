@@ -62,7 +62,9 @@ The layout showcases the structure, color scheme, and visual design of the webpa
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
-   ```git clone https://github.com/eduardapontel/news-portal.git```
+   ```bash
+    git clone https://github.com/eduardapontel/news-portal.git
+   ```
 
 - Open `index.html` in your browser.
 
